@@ -39,7 +39,7 @@ This is just the beginning.
 
 ### My Learning Progress (Roadmap.sh)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/68ebe9ef17747caa5af3b653?variant=dark&roadmaps=html%2Ccss%2Cjavascript%2Cdatastructures-and-algorithms)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/68ebe9ef17747caa5af3b653?variant=dark&roadmaps=html%2Ccss%2Cjavascript%2Cdatastructures-and-algorithms)](https://roadmap.sh)
 
 ---
 
