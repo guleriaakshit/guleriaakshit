@@ -1,5 +1,3 @@
-[![roadmap.sh](https://roadmap.sh/card/tall/68ebe9ef17747caa5af3b653?variant=dark)](https://roadmap.sh)
-
 # 👋 Hey, I'm Akshit Guleria
 
 I’m currently learning **Data Structures & Algorithms** and **Frontend Development** — focused on building strong fundamentals and getting better every single day.  
@@ -36,6 +34,12 @@ I’m currently learning **Data Structures & Algorithms** and **Frontend Develop
 
 Every day, I’m trying to learn something new — whether it’s solving a DSA problem or building a small webpage.  
 This is just the beginning.
+
+---
+
+### My Learning Progress (Roadmap.sh)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/68ebe9ef17747caa5af3b653?variant=dark&roadmaps=html%2Ccss%2Cjavascript%2Cdatastructures-and-algorithms)](https://roadmap.sh)
 
 ---
 
